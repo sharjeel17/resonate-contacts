@@ -11,3 +11,5 @@ To run this code:
 - run `npm run dev` to run the application
 
 The application is deployed on the web and can be found here [link](https://contacts-resonate-sharjeel.netlify.app/)
+
+if link does not work, copy and paste this URL: https://contacts-resonate-sharjeel.netlify.app/
